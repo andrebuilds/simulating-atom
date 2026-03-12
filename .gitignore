@@ -1,0 +1,22 @@
+# Compiled binaries
+*.exe
+*.obj
+*.dll
+*.lib
+*.pdb
+
+# Build artifacts
+*.ilk
+*.exp
+
+# VS Code machine-specific config
+.vscode/c_cpp_properties.json
+.vscode/tasks.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated orbital data (can be large)
+orbitals/
